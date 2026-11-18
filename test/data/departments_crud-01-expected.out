@@ -1,0 +1,111 @@
+
+----- Departments Table Menu -----
+1. Create a new Department
+2. Read a Department
+3. Update a Department
+4. Delete a Department
+5. Display all Departments
+6. Exit the program
+Enter your choice: 1
+Create New Department
+Department Name: CS
+
+----- Departments Table Menu -----
+1. Create a new Department
+2. Read a Department
+3. Update a Department
+4. Delete a Department
+5. Display all Departments
+6. Exit the program
+Enter your choice: 5
+ID: 1   Name: CS              
+
+----- Departments Table Menu -----
+1. Create a new Department
+2. Read a Department
+3. Update a Department
+4. Delete a Department
+5. Display all Departments
+6. Exit the program
+Enter your choice: 2
+Enter a Department name to search for: CS
+ID: 1   Name: CS              
+1 row(s) found.
+
+----- Departments Table Menu -----
+1. Create a new Department
+2. Read a Department
+3. Update a Department
+4. Delete a Department
+5. Display all Departments
+6. Exit the program
+Enter your choice: 3
+ID: 1   Name: CS              
+Select a Department ID: 1
+Enter the new Department name: Computer Science
+1 row(s) updated.
+
+----- Departments Table Menu -----
+1. Create a new Department
+2. Read a Department
+3. Update a Department
+4. Delete a Department
+5. Display all Departments
+6. Exit the program
+Enter your choice: 5
+ID: 1   Name: Computer Science 
+
+----- Departments Table Menu -----
+1. Create a new Department
+2. Read a Department
+3. Update a Department
+4. Delete a Department
+5. Display all Departments
+6. Exit the program
+Enter your choice: 1
+Create New Department
+Department Name: Biology
+
+----- Departments Table Menu -----
+1. Create a new Department
+2. Read a Department
+3. Update a Department
+4. Delete a Department
+5. Display all Departments
+6. Exit the program
+Enter your choice: 5
+ID: 1   Name: Computer Science 
+ID: 2   Name: Biology         
+
+----- Departments Table Menu -----
+1. Create a new Department
+2. Read a Department
+3. Update a Department
+4. Delete a Department
+5. Display all Departments
+6. Exit the program
+Enter your choice: 4
+ID: 1   Name: Computer Science 
+ID: 2   Name: Biology         
+Select a Department ID to delete: 2
+Are you sure you want to delete this Department? (y/n): y
+1 row(s) deleted.
+
+----- Departments Table Menu -----
+1. Create a new Department
+2. Read a Department
+3. Update a Department
+4. Delete a Department
+5. Display all Departments
+6. Exit the program
+Enter your choice: 5
+ID: 1   Name: Computer Science 
+
+----- Departments Table Menu -----
+1. Create a new Department
+2. Read a Department
+3. Update a Department
+4. Delete a Department
+5. Display all Departments
+6. Exit the program
+Enter your choice: 6

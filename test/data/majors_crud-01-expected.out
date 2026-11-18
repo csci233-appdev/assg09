@@ -1,0 +1,125 @@
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 1
+Create New Major
+Major Name: BS CS
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 5
+ID: 1   Name: BS CS           
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 2
+Enter a Major name to search for: BS CS
+ID: 1   Name: BS CS           
+1 row(s) found.
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 3
+ID: 1   Name: BS CS           
+Select a Major ID: 1
+Enter the new Major name: BS Computer Science
+1 row(s) updated.
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 5
+ID: 1   Name: BS Computer Science 
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 1
+Create New Major
+Major Name: BS Cybersecurity
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 5
+ID: 1   Name: BS Computer Science 
+ID: 2   Name: BS Cybersecurity 
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 4
+ID: 1   Name: BS Computer Science 
+ID: 2   Name: BS Cybersecurity 
+Select a Major ID to delete: 3
+Are you sure you want to delete this Major? (y/n): y
+0 row(s) deleted.
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 4
+ID: 1   Name: BS Computer Science 
+ID: 2   Name: BS Cybersecurity 
+Select a Major ID to delete: 2
+Are you sure you want to delete this Major? (y/n): y
+1 row(s) deleted.
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 5
+ID: 1   Name: BS Computer Science 
+
+----- Majors Table Menu -----
+1. Create a new Major
+2. Read a Major
+3. Update a Major
+4. Delete a Major
+5. Display all Majors
+6. Exit the program
+Enter your choice: 6
